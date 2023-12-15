@@ -1,3 +1,3 @@
 # Домашние задания
 
-*by Kavtorin
+*by Kavtorin*
